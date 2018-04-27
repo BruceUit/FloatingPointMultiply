@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4485-CC45
+
+ Directory of c:\Users\kupro\Google Drive\2017-2018\01-lectures\09_Thiet-ke-vi-mach-voi-HDL\03_Labs\Example\Mul_4bit\rtl
+
+10/11/2017  01:51 PM    <DIR>          .
+10/11/2017  01:51 PM    <DIR>          ..
+05/05/2017  12:42 AM               570 full_adder.v
+05/05/2017  12:43 AM               193 half_adder.v
+10/11/2017  01:51 PM                 0 list
+05/05/2017  01:22 AM             2,831 mach_nhan_4bit.v
+               4 File(s)          3,594 bytes
+               2 Dir(s)  49,108,549,632 bytes free
